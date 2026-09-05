@@ -1,0 +1,11 @@
+#userForm
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 1rem;
+    width: 40rem;
+    box-shadow: 0 0 2rem #00f1;
+    padding: 3rem 2rem;
+    border-radius: 1rem;
+}

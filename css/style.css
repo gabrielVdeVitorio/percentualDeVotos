@@ -1,0 +1,29 @@
+@import url("form/form.css");
+@import url("form/inputlabel.css");
+@import url("mainContainer.css");
+@import url("font.css");
+
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+hr
+{
+    width: 100%;
+    color: #0006;
+}
+
+#form__div--resultado
+{
+    color: #0003;
+}
+
+#form__div--quadrado
+{
+    background-color: #aaf;
+    box-shadow: 0 0 1rem #0003;
+    transition: height 0.5s ease, width 0.5s ease, border-radius 0.5s ease, border 0.5s ease;
+}

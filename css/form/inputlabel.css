@@ -1,0 +1,39 @@
+.form__div--inputs
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    gap: 1rem;
+    
+    font-size: 1rem;
+    padding: 0.5rem 0.3rem;
+}
+
+.form__div--inputs input
+{
+    width: 7rem;
+    padding: 0 0.3rem;
+}
+
+.form__div--inputs label
+{
+    text-align: end;
+    width: 100%;
+}
+
+#form__div--resultado
+{
+    flex-direction: column;
+}
+
+div input
+{
+    width: 10rem;
+}
+
+div label
+{
+    width: 10rem;
+}
